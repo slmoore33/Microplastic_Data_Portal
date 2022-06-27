@@ -67,7 +67,7 @@ Coming Soon
 * [ ] Security Reports in Logs
 
 ### Minimum Viable Product Creation (August 1, 2022 - Jan 31, 2023)
-* [x] Innitial Dataset Development 
+* [x] Initial Dataset Development 
 * [ ] Web Application Development
 
 ### Beta Testing of Portal (January 1, 2023 - June 30, 2023)
